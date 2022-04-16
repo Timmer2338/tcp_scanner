@@ -2,9 +2,8 @@ package main
 
 import (
 	"fmt"
-	"net"
 )
 
-func main()  {
-	
+func main() {
+	fmt.Println("123")
 }
